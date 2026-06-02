@@ -1,0 +1,8 @@
+# Main dependencies
+streamlit
+pandas
+langchain
+langchain-community
+chromadb
+sentence-transformers
+

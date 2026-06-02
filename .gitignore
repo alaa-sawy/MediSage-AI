@@ -1,0 +1,8 @@
+﻿venv/
+.venv/
+__pycache__/
+*.pyc
+*.csv
+.env
+chroma_medical_db/
+DB/
